@@ -29,4 +29,8 @@ transcript.json: records for transactions, offers received, offers viewed, and o
 Running locally:-
 You can also run the app locally without docker. For that, you'll need a basic installation of conda and the aditional packages listed in requirements.txt (plotly, xgboost, seaborn and streamlit).
 
-After installing this libraries, you the running the following command in the terminal inside the folder will open the web app
+After installing this library, you run the following command in the terminal inside the folder will open the web app
+
+# Codelabs link
+Further details about the project can be found in the link below
+https://codelabs-preview.appspot.com/?file_id=1V_ogqaRsbhKdiw7cIu-7DKomqE3N1gHrbkOro3XQQYc#0
